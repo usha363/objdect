@@ -1,0 +1,7 @@
+{
+  "name": "AI Video Frame Analyst & Shopping Assistant",
+  "description": "Analyze paused video frames using AI to detect fashion items and find them on e-commerce platforms like Amazon and Flipkart.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
